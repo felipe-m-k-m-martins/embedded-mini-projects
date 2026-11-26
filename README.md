@@ -11,5 +11,5 @@ Small embedded projects built around the ESP32 of the PAT-DAELN v2.1 board, from
 
 ## Author
 
-Felipe Martins, Mechatronics Engineering student at UTFPR, double degree at ENSTA Bretagne.
+Felipe Martins, Mechatronics Engineering student at UTFPR, double degree at ENSTA.
 [LinkedIn](https://www.linkedin.com/in/felipe-m-k-m-martins)
